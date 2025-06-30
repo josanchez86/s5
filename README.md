@@ -1,5 +1,5 @@
 # s5
-##IDENTIFICAR TARIFA QUE GENERA MAYOR RENTABILIDAD
+## IDENTIFICAR TARIFA QUE GENERA MAYOR RENTABILIDAD
 ### Descripción del proyecto:
 Identificar la tarifa que genera mayor rentabilidad a la empresa de telecomunicaciones.
 ### Tecnologías utilizadas:
